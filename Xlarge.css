@@ -1,12 +1,12 @@
-/*body{
+body{
 
 	background: black;
 	color:white;
-}*/
+}
 
 /* header */
 .header{
-	background: #00007F;
+	background: grey;
 	align-items:center;
 	padding: 10px 0;
 }
